@@ -1,7 +1,7 @@
 package pl.danplo.oauth2;
 
 
-import com.sun.javafx.scene.traversal.Algorithm;
+
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import org.springframework.web.bind.annotation.PostMapping;
